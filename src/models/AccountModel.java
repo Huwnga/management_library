@@ -153,10 +153,10 @@ public class AccountModel {
         return null;
     }
 
-    public boolean Update(String txt_user, Account account) {
+    public boolean update(String txt_user, Account account) {
         boolean flag = false;
         AccountModel am = new AccountModel();
-        String query = "UPDATE account SET password = ? WHERE username = ?";
+        String query = "UPDATE accounts SET password = ? WHERE username = ?";
 
         try {
             connection = JDBCConnect.getJDBCConnection();
@@ -188,7 +188,7 @@ public class AccountModel {
     public boolean Delete(int user_number) {
         boolean flag = false;
 
-        String query = "DELETE FROM account WHERE user_number = ?";
+        String query = "DELETE FROM accounts WHERE user_number = ?";
     
         try {
             connection = JDBCConnect.getJDBCConnection();
@@ -205,14 +205,6 @@ public class AccountModel {
             JDBCConnect.closeConnection(connection);
         }
 
-        return flag;
-    }
-
-    public boolean chechPassword(Account acc, String password) {
-        boolean flag = false;
-        if (acc.getPassword().equals(password)) {
-            flag = true;
-        }
         return flag;
     }
 }
