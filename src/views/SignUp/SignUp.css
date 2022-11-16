@@ -1,0 +1,12 @@
+/*
+ * Empty Stylesheet file.
+ */
+BorderPane{
+         -fx-background-image: url(../Images/imageSignUp.jpg);
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: 100% 100%;
+    justify-content: center;
+    align-items: center;
+    -fx-background-color: black;
+}
+
