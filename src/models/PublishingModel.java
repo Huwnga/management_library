@@ -8,6 +8,6 @@ package models;
  *
  * @author PC
  */
-public class Book {
+public class PublishingModel {
     
 }

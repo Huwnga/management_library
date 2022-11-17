@@ -24,19 +24,6 @@ public class Account {
     public Account() {
     }
 
-    public Account(String username, String password, String full_name) {
-        this.username = username;
-        this.password = password;
-        this.full_name = full_name;
-    }
-
-    public Account(String user_number, String username, String password, String full_name) {
-        this.user_number = user_number;
-        this.username = username;
-        this.password = password;
-        this.full_name = full_name;
-    }
-
     public Account(int id, String user_number, String username, String password, String full_name, int gender, String email, String dob, String mobile, int status, int roleId) {
         this.id = id;
         this.user_number = user_number;

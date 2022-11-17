@@ -3,30 +3,25 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/Account.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/models/Book.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/models/Category.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/StatusBorrow.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/models/AccountModel.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/Role.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/views/FXMLController.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/models/StatusBorrow.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/ManageBook.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/views/FXML1.fxml</file>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/views/NewFXMain.java</file>
             <file>file:/D:/Documents/NetBeansProjects/management_library/src/connect_database/JDBCConnect.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/Account.java</file>
             <file>file:/D:/Documents/NetBeansProjects/management_library/src/models/Publishing.java</file>
             <file>file:/D:/Documents/NetBeansProjects/management_library/src/models/StatusManage.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/views/FXML.fxml</file>
             <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/Publishing.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/management_library/src/models/Book.java</file>
             <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/Book.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/management_library/src/models/Category.java</file>
             <file>file:/D:/Documents/NetBeansProjects/management_library/src/connect_database/IDBConfig.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/StatusBorrow.java</file>
             <file>file:/D:/Documents/NetBeansProjects/management_library/src/models/Author.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/management_library/src/models/AccountModel.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/Role.java</file>
             <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/Author.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/management_library/src/models/StatusBorrow.java</file>
             <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/Borrow.java</file>
-            <file>file:/D:/Documents/NetBeansProjects/management_library/src/views/fxml.css</file>
             <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/Category.java</file>
             <file>file:/D:/Documents/NetBeansProjects/management_library/src/models/Borrow.java</file>
+            <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/ManageBook.java</file>
             <file>file:/D:/Documents/NetBeansProjects/management_library/src/entities/StatusManage.java</file>
         </group>
     </open-files>
